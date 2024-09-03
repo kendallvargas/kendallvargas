@@ -1,10 +1,10 @@
 
 <h1>
-  <p align="center">Hi, This is Kendall Vargas!
+  <p align="center">Hi, this is Kendall Vargas!
 </h1>
     
 
-### :man_technologist: About Me :
+### 🔊 About Me :
 I am a QA Software Tester.
 - 🔍 I focus on Manual Testing and QA strategies, along with Automation procedures: Test Case Creation/Execution, Bug Reporting, Functional Testing on Mobile and Desktop, System Testing, Payment Testing, SCRUM, Cypress, Playwright, and Katalon Studio.
 
@@ -61,7 +61,7 @@ I am a QA Software Tester.
 
 ---
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+- <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
 
 <p align = "center">
