@@ -54,10 +54,10 @@ I am a QA Software Tester.
 ---
 
 ### :hammer_and_wrench: My projects:
+
+- [cypress](https://github.com/kendallvargas/kendall-cypress) - Automation portfolio: Project covering E2E, API, and iteration procedures, using an open-source website about HR management. Integrated with GitHub Actions, Slack notification, and Mochawesome Artifact report.
   
 - [AnalystQA](https://kendallvargas.notion.site/Portfolio-0a314d8b7fb441988b4e0e674c79d117) - Manual QA Analyst portfolio: I used Nike.com as the reference webpage and created functional analysis, test cases, and bug reports/tracking.
-
-- ⏳ Cooming soon: Cypress
 
 ---
 
