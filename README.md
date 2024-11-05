@@ -10,7 +10,7 @@ I am a QA Software Tester.
 
 - 📚 Currently studying to apply for the ISTQB CTFL and CTFL-AT certifications.
   
-- 👨‍💻 In order, the path to learning these tools: Jenkins, JMeter and MySQL
+- 👨‍💻 In order, the path to learning these tools: Selenium WebDriver with Java, Jenkins, and MySQL.
 
 ---
 
@@ -40,6 +40,7 @@ I am a QA Software Tester.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket" **alt="BitBucket" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeblocks.svg" title="Code::Blocks" alt="Code::Blocks" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHubActions" **alt="GitHubActions" width="40" height="40"/>
 
   
@@ -49,6 +50,7 @@ I am a QA Software Tester.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplusbuilder.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -56,10 +58,10 @@ I am a QA Software Tester.
 ### :hammer_and_wrench: My projects:
 
 - [Cypress](https://github.com/kendallvargas/kendall-cypress) - Automation portfolio: Project covering E2E, API, and iteration procedures, using an open-source website about HR management. Integrated with GitHub Actions, Slack notification, and Mochawesome Artifact report.
-  
-- [QA Analyst](https://kendallvargas.notion.site/Portfolio-0a314d8b7fb441988b4e0e674c79d117) - Manual QA Analyst portfolio: I used Nike.com as the reference webpage and created functional analysis, test cases, and bug reports/tracking.
 
 - [StreamingQA](https://github.com/kendallvargas/StreamingQA) - Created Test Plan and Test Cases based on C++ code about price calculation based on hours watched on a Streaming platform.
+  
+- [QA Analyst](https://kendallvargas.notion.site/Portfolio-0a314d8b7fb441988b4e0e674c79d117) - Manual QA Analyst portfolio: I used Nike.com as the reference webpage and created functional analysis, test cases, and bug reports/tracking.
 
 ---
 
