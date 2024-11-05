@@ -59,6 +59,8 @@ I am a QA Software Tester.
   
 - [QA Analyst](https://kendallvargas.notion.site/Portfolio-0a314d8b7fb441988b4e0e674c79d117) - Manual QA Analyst portfolio: I used Nike.com as the reference webpage and created functional analysis, test cases, and bug reports/tracking.
 
+- [StreamingQA](https://github.com/kendallvargas/StreamingQA) - Created Test Plan and Test Cases based on C++ code about price calculation based on hours watched on a Streaming platform.
+
 ---
 
 - <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
