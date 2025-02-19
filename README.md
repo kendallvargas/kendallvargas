@@ -6,11 +6,9 @@
 
 ### 🔊 About Me :
 I am a QA Software Tester.
-- 🔍 I focus on Manual Testing and QA strategies, along with Automation procedures: Test Case Creation/Execution, Bug Reporting, Functional Testing on Mobile and Desktop, System Testing, Payment Testing, SCRUM, Cypress, Playwright, and Katalon Studio.
-
-- 📚 Currently studying to apply for the ISTQB CTFL and CTFL-AT certifications.
+- 🔍 I focus on Manual Testing and QA strategies, along with Automation procedures: Test Case Creation/Execution, Bug Reporting, Functional Testing on Mobile and Desktop, System Testing, Payment Testing, SCRUM, mySQL, Cypress, Playwright, and Katalon Studio.
   
-- 👨‍💻 In order, the path to learning these tools: Selenium WebDriver with Java, Jenkins, and MySQL.
+- 👨‍💻 In order, the path to learning these tools: Selenium WebDriver with Java, Jenkins.
 
 ---
 
