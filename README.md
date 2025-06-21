@@ -6,7 +6,7 @@
 
 ### 🔊 About Me :
 QA ninja - with a passion for breaking things (the right way). Manual + automation, backend dev in training (university grind).
-Powered by coffee☕
+- Powered by coffee☕
 
 ---
 
